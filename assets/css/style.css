@@ -30,7 +30,7 @@
 }
 
 .tbMenu{
-	background: url('/assets/images/common/menu_icon.png') no-repeat -1153px -93px;
+	background: url('../images/common/menu_icon.png') no-repeat -1153px -93px;
 	width: 39px;
 	height: 26px;
     transform: scale(0.5) !important;
@@ -45,7 +45,7 @@
 }
 
 .logo{
-	background: url('/assets/images/common/logo2.png') no-repeat -51px -59px;
+	background: url('../images/common/logo2.png') no-repeat -51px -59px;
 	width: 551px;
 	height: 96px;	
 	zoom:0.26;
