@@ -1,0 +1,14 @@
+.bgProductList{
+	background: url('../images/client/product/bg.png');
+	background-size: cover;
+}
+
+.bgProduct{
+	background: url('../images/client/product/soporte.png') no-repeat 50% 47.924%;
+	background-size: 621px 1104px;
+	width: 571px;
+	height: 213px;
+	/*border-radius: 10px;*/ 
+	transform: scale(0.55);
+	margin-left: -137px;
+}

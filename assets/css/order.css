@@ -1,0 +1,54 @@
+.quantity {
+	background: url('../images/client/order/soporte_cantidad.png') no-repeat 21.158% 45.125%;
+	background-size: 647px 1104px;
+    width: 118px;
+    height: 121px;
+    transform: scale(0.55);
+	margin-top: -11%;
+    margin-left: -9%;
+}
+
+.quantity > span{
+	font-size: 33px !important;
+	margin-left: 20% !important;
+	margin-top: 30% !important;
+	position: absolute;
+	color: darkgray;
+}
+
+.orderCost{
+	font-weight: bold;
+	color:orange;
+    margin-top: -25%;
+    margin-left: 29%;
+    position: absolute;
+    font-size: 35px !important;
+}
+
+.orderLine{
+	background: url('../images/client/order/linea.png') no-repeat -219px -1146px;
+	width: 852px;
+	height: 2px;
+	margin-bottom:5%;
+}
+
+.orderBtnClear{
+	background: url('../images/client/order/boton_clear.png') no-repeat 21.225% 77.46%;
+	background-size: 621px 1104px;
+	width: 164px;
+	height: 73px;
+	float: left;
+	transform: scale(0.55);
+	margin-left: -9%;
+	cursor:pointer;
+}
+
+.orderBtnCheckout{
+	background: url('../images/client/order/boton_checkout.png') no-repeat 77.047% 77.46%;
+	background-size: 621px 1104px;
+	width: 218px;
+	height: 73px;
+	margin-left: 34%;
+	transform: scale(0.55);
+	cursor:pointer;
+}

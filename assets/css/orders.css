@@ -1,0 +1,90 @@
+
+.carIcon{
+	background: url('../images/agent/orders/carIcon.png') no-repeat -138px -534px;
+	width: 122px;
+	height: 122px;
+	zoom:0.26;
+	margin-top: 45px;
+	margin-left: 30px;
+}
+
+
+.gray{
+	color: rgb(120,120,120) !important;
+}
+
+.amountClass{
+	background: url('../images/agent/orders/amountSupport.png') no-repeat -212px -935px;
+	width: 240px;
+	height: 182px;
+	zoom:0.3;
+}
+
+.amountSpan{
+	font-weight: bold;
+	font-size: 18px !important;
+	margin-top: -50px !important;
+	margin-left: 10px !important;
+}
+
+
+
+.orderSupport{
+	background: url('../images/agent/orders/support.png');
+	background-size: contain;
+	width:100%;
+	height:200px;
+}
+
+.orderScroll{
+	background: url('../images/agent/orders/scroll.png') no-repeat 6.103% 100%;
+	background-size: 621px 1104px;
+	width: 7px;
+    max-height: 900px;
+    min-height: 200px;
+    margin-top: -20px;
+    margin-left: 17px;
+	float:left;
+}
+
+.orderCardTitle{
+	display: flex;
+	color: #778899;
+	font-size: 12px !important;
+	text-transform: uppercase !important;
+	
+}
+
+.orderCardH1{
+	display: flex;
+	color: 	#4682B4;
+	font-weight: bold;
+	font-size: 14px !important;
+	text-transform: uppercase !important;
+}
+
+.orderCardH7{
+	display: flex;
+	color: #778899;
+	font-size: 10px !important;
+	text-transform: uppercase !important;
+}
+
+
+.orderScrollActive{
+	background: url('../images/agent/orders/scrollActive.png')  no-repeat 6.107% 48.237%;
+	background-size: 621px 1104px;
+	width: 7px;
+	height: 60px;
+	float: left;
+	margin-left: -23px
+}
+
+.footOrderScroll{
+	clear: both;
+	background: url('../images/agent/orders/footer.png') no-repeat 0 100%;
+	background-size: 621px 204px;
+	width: 621px;
+	height: 100px;
+}
+

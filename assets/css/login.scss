@@ -1,0 +1,51 @@
+.boton {
+	background: url('../images/login/boton.png') no-repeat -351px -1486px;
+	width: 540px;
+	height: 111px;
+	zoom:0.4;
+	cursor: pointer !important;
+	margin:auto;
+	margin-top: 50px;
+}
+
+.background-login{
+	background: url('../images/login/bg.png');
+	background-size: cover;
+}
+
+.logoLogin{
+	margin:auto;
+	margin-top: 300px;
+	position:absolute; 
+	background: url('../images/common/logo.png') no-repeat -112px -452px;
+	width: 1031px;
+	height: 175px;
+	zoom:0.3;
+}
+
+.container_login{
+	margin-top:200px;
+	color:white !important;
+}
+
+#loginBox > .text-input::-moz-placeholder {
+	color: white;
+	font-weight: bold;
+	font-size: 17px !important;
+	text-align: center;
+}
+
+#loginBox > .text-input:-ms-input-placeholder {
+	color: white;
+	font-weight: bold;
+	font-size: 17px !important;
+	text-align: center;
+}
+
+#loginBox > .text-input::-webkit-input-placeholder {
+  text-indent: 0;
+	color: white;
+	font-weight: bold;
+	font-size: 17px !important;
+	text-align: center;
+}
