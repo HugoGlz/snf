@@ -24388,7 +24388,7 @@ ion-navbar.toolbar {
 }
 
 .bgClientIndex {
-  background: url("/assets/images/client/bg2.png");
+  background: url("../../../assets/images/client/bg2.png");
   background-size: cover;
 }
 
@@ -24410,7 +24410,7 @@ ion-navbar.toolbar {
 }
 
 .divFingerprint {
-  background: url("/assets/images/client/fingerprint.png") no-repeat 50% 59.397%;
+  background: url("../../../assets/images/client/fingerprint.png") no-repeat 50% 59.397%;
   background-size: 621px 1104px;
   width: 258px;
   height: 258px;
@@ -24422,7 +24422,7 @@ ion-navbar.toolbar {
 }
 
 .divEquipo {
-  background: url("/assets/images/client/iconos.png") no-repeat 16.637% 23.882%;
+  background: url("../../../assets/images/client/iconos.png") no-repeat 16.637% 23.882%;
   background-size: 621px 1104px;
   width: 53px;
   height: 53px;
@@ -24447,7 +24447,7 @@ ion-navbar.toolbar {
 }
 
 .divEntrevista {
-  background: url("/assets/images/client/entrevista.png") no-repeat 50.371% 81.069%;
+  background: url("./assets/images/client/entrevista.png") no-repeat 50.371% 81.069%;
   background-size: 621px 1104px;
   width: 217px;
   height: 66px;
@@ -24460,7 +24460,7 @@ ion-navbar.toolbar {
 }
 
 .divMuestras {
-  background: url("/assets/images/client/iconos.png") no-repeat 87.097% 37.789%;
+  background: url("./assets/images/client/iconos.png") no-repeat 87.097% 37.789%;
   background-size: 621px 1104px;
   width: 32px;
   height: 46px;
@@ -24483,7 +24483,7 @@ ion-navbar.toolbar {
 }
 
 .divUrgencia {
-  background: url("/assets/images/client/iconos.png") no-repeat 83.805% 24.286%;
+  background: url("./assets/images/client/iconos.png") no-repeat 83.805% 24.286%;
   background-size: 621px 1104px;
   width: 56px;
   height: 36px;
@@ -24506,7 +24506,7 @@ ion-navbar.toolbar {
 }
 
 .divReclamaciones {
-  background: url("/assets/images/client/iconos.png") no-repeat 83.099% 65.101%;
+  background: url("./assets/images/client/iconos.png") no-repeat 83.099% 65.101%;
   background-size: 621px 1104px;
   width: 53px;
   height: 61px;
@@ -24529,7 +24529,7 @@ ion-navbar.toolbar {
 }
 
 .divCotizacion {
-  background: url("/assets/images/client/iconos.png") no-repeat 88.899% 51.54%;
+  background: url("./assets/images/client/iconos.png") no-repeat 88.899% 51.54%;
   background-size: 621px 1104px;
   width: 63px;
   height: 49px;
@@ -24552,7 +24552,7 @@ ion-navbar.toolbar {
 }
 
 .divInformacion {
-  background: url("/assets/images/client/iconos.png") no-repeat 17.977% 64.943%;
+  background: url("./assets/images/client/iconos.png") no-repeat 17.977% 64.943%;
   background-size: 621px 1104px;
   width: 23px;
   height: 50px;
@@ -24575,7 +24575,7 @@ ion-navbar.toolbar {
 }
 
 .divPrueba {
-  background: url("/assets/images/client/iconos.png") no-repeat 12.049% 51.193%;
+  background: url("./assets/images/client/iconos.png") no-repeat 12.049% 51.193%;
   background-size: 621px 1104px;
   width: 53px;
   height: 36px;
@@ -24598,7 +24598,7 @@ ion-navbar.toolbar {
 }
 
 .divPedido {
-  background: url("/assets/images/client/iconos.png") no-repeat 12% 37.193%;
+  background: url("./assets/images/client/iconos.png") no-repeat 12% 37.193%;
   background-size: 621px 1104px;
   width: 46px;
   height: 46px;
@@ -24621,7 +24621,7 @@ ion-navbar.toolbar {
 }
 
 .divShadowLeft {
-  background: url("/assets/images/client/shadow_left.png") no-repeat 9.281% 39.75%;
+  background: url("./assets/images/client/shadow_left.png") no-repeat 9.281% 39.75%;
   background-size: 216px 384px;
   width: 49px;
   height: 184px;
@@ -24633,7 +24633,7 @@ ion-navbar.toolbar {
 }
 
 .divShadowRigth {
-  background: url("/assets/images/client/shadow_right.png") no-repeat 90.719% 39.75%;
+  background: url("./assets/images/client/shadow_right.png") no-repeat 90.719% 39.75%;
   background-size: 216px 384px;
   width: 49px;
   height: 184px;
@@ -24645,7 +24645,7 @@ ion-navbar.toolbar {
 }
 
 .divAyuda {
-  background: url("/assets/images/client/ayuda.png") no-repeat 50.371% 81.069%;
+  background: url("./assets/images/client/ayuda.png") no-repeat 50.371% 81.069%;
   background-size: 621px 1104px;
   width: 217px;
   height: 66px;
