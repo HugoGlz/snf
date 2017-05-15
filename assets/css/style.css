@@ -96,3 +96,487 @@ ion-menu[type=overlay]{
 .list-ios > .item-wrapper:last-child .item-block {
  	 border-bottom: none !important;
 }
+
+.bgClientIndex{
+	background: url('../images/client/bg2.png');
+	background-size: cover;
+}
+
+
+.divButton{
+	width: 123px;
+	height: 123px;
+	box-shadow: inset 0 0 3px rgba(0,0,0,0.4), 0 0 0 10px black;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+
+.title {
+	position: absolute;
+	top:100px;
+	left:20px;
+	color:white;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.divFingerprint{
+	background: url('../images/client/fingerprint.png') no-repeat 50% 59.397%;
+	background-size: 621px 1104px;
+	width: 258px;
+	height: 258px;
+	transform: scale(0.55);
+	margin: 10% 6%;
+	cursor:pointer;
+	position: absolute;
+}
+
+.divEquipo{
+	background: url('../images/client/iconos.png') no-repeat 16.637% 23.882%;
+	background-size: 621px 1104px;
+	width: 53px;
+	height: 53px;
+	cursor:pointer;
+	margin-top: -10%;
+    margin-left: -5%;
+	position: absolute;
+	transform: scale(0.68);
+	margin-top: 2%;
+	margin-left: 6%;
+}
+
+.divEquipo > span{
+	color: white;
+	font-size: 16px;
+    margin-top: 130%;
+    margin-left: -25%;
+    display: block;
+    width: 120%;
+	text-weight: bold;
+}
+
+.divEntrevista{
+	background: url('../images/client/entrevista.png') no-repeat 50.371% 81.069%;
+	background-size: 621px 1104px;
+	width: 217px;
+	height: 66px;
+	transform: scale(0.55);
+	cursor:pointer;
+    margin-top: 101%;
+    margin-left: 12%;
+	position: absolute;
+}
+
+.divMuestras{
+	background: url('../images/client/iconos.png') no-repeat 87.097% 37.789%;
+	background-size: 621px 1104px;
+	width: 32px;
+	height: 46px;
+	transform: scale(0.68);
+	cursor:pointer;
+	margin-top: 27%;
+    margin-left: 75%;
+	position: absolute;
+}
+
+.divMuestras > span{
+	color: white;
+	font-size: 16px;
+    margin-top: 205%;
+    margin-left: -38%;
+    display: block;
+    width: 250%;
+	text-weight: bold;
+}
+
+.divUrgencia{
+	background: url('../images/client/iconos.png') no-repeat 83.805% 24.286%;
+	background-size: 621px 1104px;
+	width: 56px;
+	height: 36px;
+	transform: scale(0.68);
+	cursor:pointer;
+	margin-top: 4%;
+    margin-left: 67%;
+	position: absolute;
+}
+
+.divUrgencia > span{
+	color: white;
+	font-size: 16px;
+    margin-top: 111%;
+    margin-left: 8%;
+    display: block;
+    width: 250%;
+	text-weight: bold;
+}
+
+
+.divReclamaciones{
+	background: url('../images/client/iconos.png') no-repeat 83.099% 65.101%;
+	background-size: 621px 1104px;
+	width: 53px;
+	height: 61px;
+	transform: scale(0.68);
+	cursor:pointer;
+	margin-top: 77%;
+    margin-left: 67%;
+	position: absolute;
+}
+
+.divReclamaciones > span{
+	color: white;
+	font-size: 16px;
+    margin-top: 136%;
+    margin-left: -90%;
+    display: block;
+    width: 450%;
+	text-weight: bold;
+}
+
+.divCotizacion{
+	background: url('../images/client/iconos.png') no-repeat 88.899% 51.54%;
+	background-size: 621px 1104px;
+	width: 63px;
+	height: 49px;
+	transform: scale(0.68);
+	cursor:pointer;
+	margin-top: 53%;
+    margin-left: 71%;
+	position: absolute;
+}
+
+.divCotizacion > span{
+	color: white;
+	font-size: 16px;
+    margin-top: 110%;
+    margin-left: -38%;
+    display: block;
+    width: 250%;
+	text-weight: bold;
+}
+
+.divInformacion{
+	background: url('../images/client/iconos.png') no-repeat 17.977% 64.943%;
+	background-size: 621px 1104px;
+	width: 23px;
+	height: 50px;
+	transform: scale(0.68);
+	cursor:pointer;
+	margin-top: 78%;
+    margin-left: 10%;
+	position: absolute;
+}
+
+.divInformacion > span{
+	color: white;
+	font-size: 16px;
+    margin-top: 305%;
+    margin-left: -85%;
+    display: block;
+    width: 490%;
+	text-weight: bold;
+}
+
+.divPrueba{
+	background: url('../images/client/iconos.png') no-repeat 12.049% 51.193%;
+	background-size: 621px 1104px;
+	width: 53px;
+	height: 36px;
+	transform: scale(0.68);
+	cursor:pointer;
+	margin-top: 55%;
+    margin-left: 1.5%;
+	position: absolute;
+}
+
+.divPrueba > span{
+	color: white;
+	font-size: 16px;
+    margin-top: 121%;
+    margin-left: 6%;
+    display: block;
+    width: 130%;
+	text-weight: bold;
+}
+
+.divPedido{
+	background: url('../images/client/iconos.png')  no-repeat 12% 37.193%;
+	background-size: 621px 1104px;
+	width: 46px;
+	height: 46px;
+	transform: scale(0.68);
+	cursor:pointer;
+	margin-top: 28%;
+    margin-left: 3%;
+	position: absolute;
+}
+
+.divPedido > span{
+	color: white;
+	font-size: 16px;
+    margin-top: 142%;
+    margin-left: -24%;
+    display: block;
+    width: 140%;
+	text-weight: bold;
+}
+
+
+.divShadowLeft{
+	background: url('../images/client/shadow_left.png') no-repeat 9.281% 39.75%;
+	background-size: 216px 384px;
+	width: 49px;
+	height: 184px;
+    margin-top: 20%;
+    margin-left: 6%;
+    transform: scale(1.65);
+	position: absolute;
+}
+
+.divShadowRigth{
+	background: url('../images/client/shadow_right.png') no-repeat 90.719% 39.75%;
+	background-size: 216px 384px;
+	width: 49px;
+	height: 184px;
+	transform: scale(1.65);
+    margin-top: 20%;
+    margin-left: 69.5%;
+	position: absolute;
+}
+
+.divAyuda{
+	background: url('../images/client/ayuda.png') no-repeat 50.371% 81.069%;
+	background-size: 621px 1104px;
+	width: 217px;
+	height: 66px;
+	transform: scale(0.55);
+    margin-top: 101%;
+    margin-left: 12%;
+	position: absolute;
+}
+
+.divAyuda > span{
+	color: white;
+	font-size: 40px;
+    margin-top: 5%;
+    margin-left: 20%;
+    font-weight: bold;
+    display: block;
+    width: 140%;
+	text-weight: bold;
+}
+
+.bgProductList{
+	background: url('../images/client/product/bg.png');
+	background-size: cover;
+}
+
+.bgProduct{
+	background: url('../images/client/product/soporte.png') no-repeat 50% 47.924%;
+	background-size: 621px 1104px;
+	width: 571px;
+	height: 213px;
+	/*border-radius: 10px;*/ 
+	transform: scale(0.55);
+	margin-left: -137px;
+}
+
+
+
+.carIcon{
+	background: url('../images/agent/orders/carIcon.png') no-repeat -138px -534px;
+	width: 122px;
+	height: 122px;
+	zoom:0.26;
+	margin-top: 45px;
+	margin-left: 30px;
+}
+
+
+.gray{
+	color: rgb(120,120,120) !important;
+}
+
+.amountClass{
+	background: url('../images/agent/orders/amountSupport.png') no-repeat -212px -935px;
+	width: 240px;
+	height: 182px;
+	zoom:0.3;
+}
+
+.amountSpan{
+	font-weight: bold;
+	font-size: 18px !important;
+	margin-top: -50px !important;
+	margin-left: 10px !important;
+}
+
+
+
+.orderSupport{
+	background: url('../images/agent/orders/support.png');
+	background-size: contain;
+	width:100%;
+	height:200px;
+}
+
+.orderScroll{
+	background: url('../images/agent/orders/scroll.png') no-repeat 6.103% 100%;
+	background-size: 621px 1104px;
+	width: 7px;
+    max-height: 900px;
+    min-height: 200px;
+    margin-top: -20px;
+    margin-left: 17px;
+	float:left;
+}
+
+.orderCardTitle{
+	display: flex;
+	color: #778899;
+	font-size: 12px !important;
+	text-transform: uppercase !important;
+	
+}
+
+.orderCardH1{
+	display: flex;
+	color: 	#4682B4;
+	font-weight: bold;
+	font-size: 14px !important;
+	text-transform: uppercase !important;
+}
+
+.orderCardH7{
+	display: flex;
+	color: #778899;
+	font-size: 10px !important;
+	text-transform: uppercase !important;
+}
+
+
+.orderScrollActive{
+	background: url('../images/agent/orders/scrollActive.png')  no-repeat 6.107% 48.237%;
+	background-size: 621px 1104px;
+	width: 7px;
+	height: 60px;
+	float: left;
+	margin-left: -23px
+}
+
+.footOrderScroll{
+	clear: both;
+	background: url('../images/agent/orders/footer.png') no-repeat 0 100%;
+	background-size: 621px 204px;
+	width: 621px;
+	height: 100px;
+}
+
+
+.quantity {
+	background: url('../images/client/order/soporte_cantidad.png') no-repeat 21.158% 45.125%;
+	background-size: 647px 1104px;
+    width: 118px;
+    height: 121px;
+    transform: scale(0.55);
+	margin-top: -11%;
+    margin-left: -9%;
+}
+
+.quantity > span{
+	font-size: 33px !important;
+	margin-left: 20% !important;
+	margin-top: 30% !important;
+	position: absolute;
+	color: darkgray;
+}
+
+.orderCost{
+	font-weight: bold;
+	color:orange;
+    margin-top: -25%;
+    margin-left: 29%;
+    position: absolute;
+    font-size: 35px !important;
+}
+
+.orderLine{
+	background: url('../images/client/order/linea.png') no-repeat -219px -1146px;
+	width: 852px;
+	height: 2px;
+	margin-bottom:5%;
+}
+
+.orderBtnClear{
+	background: url('../images/client/order/boton_clear.png') no-repeat 21.225% 77.46%;
+	background-size: 621px 1104px;
+	width: 164px;
+	height: 73px;
+	float: left;
+	transform: scale(0.55);
+	margin-left: -9%;
+	cursor:pointer;
+}
+
+.orderBtnCheckout{
+	background: url('../images/client/order/boton_checkout.png') no-repeat 77.047% 77.46%;
+	background-size: 621px 1104px;
+	width: 218px;
+	height: 73px;
+	margin-left: 34%;
+	transform: scale(0.55);
+	cursor:pointer;
+}
+
+.boton {
+	background: url('../images/login/boton.png') no-repeat -351px -1486px;
+	width: 540px;
+	height: 111px;
+	zoom:0.4;
+	cursor: pointer !important;
+	margin:auto;
+	margin-top: 50px;
+}
+
+.background-login{
+	background: url('../images/login/bg.png');
+	background-size: cover;
+}
+
+.logoLogin{
+	margin:auto;
+	margin-top: 300px;
+	position:absolute; 
+	background: url('../images/common/logo.png') no-repeat -112px -452px;
+	width: 1031px;
+	height: 175px;
+	zoom:0.3;
+}
+
+.container_login{
+	margin-top:200px;
+	color:white !important;
+}
+
+#loginBox > .text-input::-moz-placeholder {
+	color: white;
+	font-weight: bold;
+	font-size: 17px !important;
+	text-align: center;
+}
+
+#loginBox > .text-input:-ms-input-placeholder {
+	color: white;
+	font-weight: bold;
+	font-size: 17px !important;
+	text-align: center;
+}
+
+#loginBox > .text-input::-webkit-input-placeholder {
+  text-indent: 0;
+	color: white;
+	font-weight: bold;
+	font-size: 17px !important;
+	text-align: center;
+}
